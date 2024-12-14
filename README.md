@@ -1,3 +1,3 @@
-# snekOnline
+# snek
 
 Basic snek game 
